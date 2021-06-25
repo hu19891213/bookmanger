@@ -1,7 +1,7 @@
-package com.bookmanager.controller.user;
+package com.lyx.bookmanager.controller.user;
 
-import com.bookmanager.mapper.BookMapper;
-import com.bookmanager.pojo.Book;
+import com.lyx.bookmanager.mapper.BookMapper;
+import com.lyx.bookmanager.pojo.Book;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

@@ -1,4 +1,4 @@
-package com.bookmanager;
+package com.lyx.bookmanager;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

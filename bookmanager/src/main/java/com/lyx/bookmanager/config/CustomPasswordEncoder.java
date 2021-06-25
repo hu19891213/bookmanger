@@ -1,4 +1,4 @@
-package com.bookmanager.config;
+package com.lyx.bookmanager.config;
 
 import org.springframework.security.crypto.password.PasswordEncoder;
 

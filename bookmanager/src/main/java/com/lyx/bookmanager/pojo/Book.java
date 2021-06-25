@@ -1,4 +1,4 @@
-package com.bookmanager.pojo;
+package com.lyx.bookmanager.pojo;
 
 import org.springframework.format.annotation.DateTimeFormat;
 

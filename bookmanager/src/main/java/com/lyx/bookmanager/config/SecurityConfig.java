@@ -1,4 +1,4 @@
-package com.bookmanager.config;
+package com.lyx.bookmanager.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.config.annotation.authentication.builders.AuthenticationManagerBuilder;

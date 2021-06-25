@@ -2,7 +2,7 @@
 <!DOCTYPE mapper
         PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
-<mapper namespace="com.bookmanager.mapper.BookMapper">
+<mapper namespace="com.lyx.bookmanager.mapper.BookMapper">
     <select id="getAllBook" resultType="Book">
         select * from book_info;
     </select>

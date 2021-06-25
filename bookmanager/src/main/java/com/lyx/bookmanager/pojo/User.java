@@ -1,4 +1,4 @@
-package com.bookmanager.pojo;
+package com.lyx.bookmanager.pojo;
 
 public class User {
     private int id;

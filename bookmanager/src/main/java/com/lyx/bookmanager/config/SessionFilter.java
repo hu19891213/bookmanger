@@ -1,6 +1,6 @@
-package com.bookmanager.config;
+package com.lyx.bookmanager.config;
 
-import com.bookmanager.mapper.ReaderMapper;
+import com.lyx.bookmanager.mapper.ReaderMapper;
 
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.security.core.userdetails.UserDetails;

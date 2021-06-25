@@ -1,6 +1,6 @@
-package com.bookmanager.mapper;
+package com.lyx.bookmanager.mapper;
 
-import com.bookmanager.pojo.Reader;
+import com.lyx.bookmanager.pojo.Reader;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
 

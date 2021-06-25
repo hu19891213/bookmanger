@@ -1,7 +1,7 @@
-package com.bookmanager.config;
+package com.lyx.bookmanager.config;
 
-import com.bookmanager.mapper.UserMapper;
-import com.bookmanager.pojo.User;
+import com.lyx.bookmanager.mapper.UserMapper;
+import com.lyx.bookmanager.pojo.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
